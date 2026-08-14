@@ -43,11 +43,11 @@ physical human-robot interaction.
 ### 📊 GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mathieu-celerier&show_icons=true&count_private=false&hide_border=true&cache_seconds=86400" alt="Mathieu's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathieu-celerier&layout=compact&hide_border=true&cache_seconds=86400" alt="Top Languages">
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mathieu-celerier&show_icons=true&count_private=false&hide_border=true&cache_seconds=86400" alt="Mathieu's GitHub stats">
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mathieu-celerier&layout=compact&hide_border=true&cache_seconds=86400" alt="Top Languages">
 </p>
 
-<sub>If a card above shows broken, it's usually the shared <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> instance hitting GitHub API rate limits — it typically recovers within a few minutes; GitHub may also cache the failed image briefly.</sub>
+<sub>Served via the <a href="https://github.com/anuraghazra/github-readme-stats#public-instances">rickstaa community mirror</a> of github-readme-stats, since the default shared instance is frequently rate-limited.</sub>
 
 ---
 
