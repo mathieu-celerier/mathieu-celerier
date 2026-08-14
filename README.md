@@ -40,15 +40,6 @@ physical human-robot interaction.
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 </p>
 
-### 📊 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mathieu-celerier&show_icons=true&count_private=false&hide_border=true&cache_seconds=86400" alt="Mathieu's GitHub stats">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mathieu-celerier&layout=compact&hide_border=true&cache_seconds=86400" alt="Top Languages">
-</p>
-
-<sub>Served via the <a href="https://github.com/anuraghazra/github-readme-stats#public-instances">rickstaa community mirror</a> of github-readme-stats, since the default shared instance is frequently rate-limited.</sub>
-
 ---
 
 <p align="center"><i>📫 Reach me at mathieu.celerier.ing@gmail.com</i></p>
