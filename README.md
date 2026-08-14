@@ -43,11 +43,15 @@ physical human-robot interaction.
 ### 📊 GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mathieu-celerier&show_icons=true&count_private=false&hide_border=true&cache_seconds=86400" alt="Mathieu's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathieu-celerier&layout=compact&hide_border=true&cache_seconds=86400" alt="Top Languages">
+  <img height="230" src="profile-summary-card-output/default/0-profile-details.svg" alt="Mathieu's GitHub profile details">
+  <img height="230" src="profile-summary-card-output/default/3-stats.svg" alt="Mathieu's GitHub stats">
+</p>
+<p>
+  <img height="230" src="profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos per language">
+  <img height="230" src="profile-summary-card-output/default/2-most-commit-language.svg" alt="Most commit language">
 </p>
 
-<sub>Cards from <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>, a free shared service that can be intermittently rate-limited — if it looks broken, it usually recovers within minutes.</sub>
+<sub>Generated daily by a <a href="./.github/workflows/profile-summary-cards.yml">GitHub Action</a> using <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">github-profile-summary-cards</a> and committed straight into this repo — no live third-party rendering involved. Cards appear after the workflow's first run (Actions tab, or wait for the daily schedule).</sub>
 
 ---
 
